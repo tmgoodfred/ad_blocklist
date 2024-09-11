@@ -22,5 +22,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 log.byteoversea.com
+0.0.0.0 events.reddit.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
 
 # 0.0.0.0 example.com
